@@ -1,0 +1,2 @@
+### AI Snippets
+* prompts/*
