@@ -1,5 +1,8 @@
 # Re-usable react components storage
 
+### AI Snippets
+* prompts/*
+
 ### Components
 * `ScrollToTopButton` - when scroll down on page appear "go to top" icon and when clicked on it it will smoothly scroll on top (tailwind css)
 * `ExpandingSearch` - on click expanding seach field connected with searcvh api (tailwind css)
